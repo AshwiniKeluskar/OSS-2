@@ -288,7 +288,7 @@ namespace DAL
 			{
 				con.Close();
 			}
-			return status;
+			return status
 		}
 	}
 }
